@@ -32,4 +32,4 @@ project:
     - PowerBI/pizza_sales_dashboard.pbix
     - README.md
     - config.yaml
-    - assets/dashboard_screenshots.png
+    - screenshots.png
